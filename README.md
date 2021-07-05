@@ -2,7 +2,7 @@
 
 This is a Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
 
-Created using React and [https://chatengine.io](https://chatengine.io)
+Created using React and Chat Engine [https://chatengine.io](https://chatengine.io)
 
 Authentication using Firebase 
 
