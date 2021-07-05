@@ -4,7 +4,7 @@ This is a [React.js](https://reactjs.org/) project created with create-react-app
 
 ## Getting Started
 
-First, run the development server:
+First, run the server:
 
 ```bash
 npm start
