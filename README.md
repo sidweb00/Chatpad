@@ -1,5 +1,7 @@
 # Chatpad
 
+This is a [React.js](https://reactjs.org/) project created with create-react-app.
+
 This is a Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
 
 Created using React and Chat Engine [https://chatengine.io](https://chatengine.io)
