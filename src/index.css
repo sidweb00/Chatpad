@@ -47,7 +47,7 @@
 /* Login Page */
 
 #login-page {
-  background-image: linear-gradient(#40a9ff, #096dd9);
+  background-image: linear-gradient(#12c2e9, #c471ed,#f64f59);
   position: absolute;
   top: 0px;
   bottom: 0px;
@@ -64,7 +64,7 @@
   width: 420px;
   text-align: center;
   background-color: white;
-  border-radius: 22px;
+  border-radius: 38px;
 }
 
 .login-button {
@@ -98,4 +98,16 @@
   position: relative;
   left: calc(50vw - 33px);
   top: calc(50vh - 22px);
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+footer p {
+  color:black;
 }

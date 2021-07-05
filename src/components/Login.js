@@ -7,10 +7,11 @@ import firebase from 'firebase/app';
 
 
 const Login = () => {
+    const currentYear = new Date().getFullYear();
     return (
         <div id="login-page" >
             <div id="login-card">
-                <h2>WELCOME To MY Messenger</h2>
+                <h2>CHATPAD</h2>
                 <div
                     className="login-button google"
                     onClick={() => auth.signInWithRedirect(new firebase.auth.GoogleAuthProvider())}
@@ -25,6 +26,9 @@ const Login = () => {
                     <FacebookOutlined />Sign in with Facebook
                 </div>
             </div>
+            <footer>
+                <p>Copyright by Siddharth ⓒ {currentYear}</p>
+            </footer>
 
         </div >
     )
@@ -32,3 +36,4 @@ const Login = () => {
 }
 
 export default Login;
+
