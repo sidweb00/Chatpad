@@ -21,7 +21,7 @@ Created using Chat Engine [https://chatengine.io](https://chatengine.io)
 
 Authentication using [Firebase](https://firebase.google.com/?gclid=Cj0KCQjw24qHBhCnARIsAPbdtlJQdb3roBeFWOQ8e4tMJ_TtLSyxxpa_2ERqBOv09SM2wfCqEcJwOXIaAsKsEALw_wcB&gclsrc=aw.ds)
 
-##tutorial
+## tutorial
 
 [Chat Engine Guide](https://www.npmjs.com/package/react-chat-engine)
 
